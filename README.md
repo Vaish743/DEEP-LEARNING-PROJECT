@@ -18,3 +18,9 @@ THIS DEEP LEARNING PROJECT IMPLEMENTS A CONVOLUTIONAL NEURAL NETWORK (CNN) FOR I
 
 *OUTPUT* :
 
+<img width="634" height="210" alt="Image" src="https://github.com/user-attachments/assets/7caa5d93-91fc-48be-b823-89ffc64140a0" />
+<img width="623" height="108" alt="Image" src="https://github.com/user-attachments/assets/05750ec4-b7ca-4ad4-b7d0-a898e05bceda" />
+<img width="947" height="423" alt="Image" src="https://github.com/user-attachments/assets/68d6948b-75c1-4eb6-b096-46e73835cf2b" />
+<img width="812" height="368" alt="Image" src="https://github.com/user-attachments/assets/e6711195-6176-449a-87a0-475b4b7adc4e" />
+<img width="886" height="402" alt="Image" src="https://github.com/user-attachments/assets/92378b0a-b441-4316-aee7-b74019297ff2" />
+<img width="936" height="391" alt="Image" src="https://github.com/user-attachments/assets/0ada441d-21f1-44b5-a0af-bc19b086b544" />
